@@ -1,0 +1,3 @@
+$("#divname").keydown(function (e) {
+
+});
